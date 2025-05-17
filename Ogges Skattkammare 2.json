@@ -1,0 +1,200 @@
+{
+  "name": "Ogges Skattkammare",
+  "subtitle": "IPA",
+  "description": "Här är några IPA filer som är nödvändiga om du vill ha en skönare streaming känsla🍻",
+  "iconURL": "https://i.imgur.com/khBwG7B.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.xd.mbp31",
+    "com.soundcloud.TouchApp",
+    "com.zhiliaoapp.musically",
+    "com.spotify.client",
+    "com.box.hd.flix.drama.hub",
+    "com.google.ios.youtube"
+  ],
+  "headerURL": "https://i.imgur.com/OZR98iy.jpeg",
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/vn0PdL4.png",
+      "tintColor": "#fc0434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SoundCloud",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/sULRWvE.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSBluetoothPeripheralUsageDescription": "SoundCloud would like to use bluetooth.",
+          "NSCameraUsageDescription": "bla-bla-bla",
+          "NSLocalNetworkUsageDescription": "SoundCloud uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSMicrophoneUsageDescription": "SoundCloud would like to use the microphone.",
+          "NSPhotoLibraryAddUsageDescription": "SoundCloud would like to access the photos library.",
+          "NSPhotoLibraryUsageDescription": "SoundCloud would like to store a photo.",
+          "NSSiriUsageDescription": "SoundCloud would like to use Siri",
+          "NSUserTrackingUsageDescription": "Your data will only be used to serve more relevant ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/c85YY0t.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSAdvertisingAttributionReportEndpoint": "https://byteintl-ugpaidads.com",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience.",
+          "NSBluetoothAlwaysUsageDescription": "Turn on Bluetooth to connect to your TV",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSBluetoothPeripheralUsageDescription": "Turn on Bluetooth to connect to your TV",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/wvuKXrn.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MovieBox",
+      "bundleIdentifier": "com.xd.mbp31",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/qaDRgZB.png",
+      "tintColor": "#fcdc44",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "MovieBoxPro need to access your idfa be used to deliver personalized content to you.",
+          "NSPhotoLibraryUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSBluetoothAlwaysUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSLocationWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSCameraUsageDescription": "Allow MovieBoxPro access your Camera?",
+          "NSLocationAlwaysUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSBluetoothPeripheralUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSPhotoLibraryAddUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSMicrophoneUsageDescription": "Allow MovieBoxPro access your Microphone?",
+          "NSLocalNetworkUsageDescription": "MovieBox uses the local network to discover Cast-enabled devices on your WiFi\nnetwork."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/edxs3A2.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
+          "NSCameraUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "",
+          "NSMicrophoneUsageDescription": "The application needs access to the microphone to recognize your voice to convert voice to title of the journey.",
+          "NSPhotoLibraryUsageDescription": "The application needs access to the photo library to create the journey.",
+          "NSSpeechRecognitionUsageDescription": "The application needs access to speech recognition to convert your voice to title of the journey.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
